@@ -2,7 +2,8 @@
 ! Title: AdiRules
 ! Version: 20251209
 ! Expires: 24 hour
-! Homepage: https://cdn.jsdelivr.net/gh/adiovo/AdBlock-Rules/rules.txt(https://raw.githubusercontent.com/adiovo/AdBlock-Rules/main/rules.txt)
+! Homepage: https://raw.githubusercontent.com/adiovo/adblock-rules/main/rules.txt
+! CDNHomepage: https://cdn.jsdelivr.net/gh/adiovo/adblock-rules/rules.txt
 
 @@||juejin.cn/*^$document
 @@||gitee.com/*^$document

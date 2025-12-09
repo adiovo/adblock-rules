@@ -152,3 +152,5 @@
 
 @@||bitbucket.org/*^$document
 @@||atlassian.com/*^$document
+@@||appstore.bilin.eu.org^$document
+@@||imgchr.com^$document

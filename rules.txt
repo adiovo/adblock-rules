@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Title: AdiRules
-! Version: 20251209
+! Version: 20251211
 ! Expires: 24 hour
 ! Homepage: https://raw.githubusercontent.com/adiovo/adblock-rules/main/rules.txt
-! CDNHomepage: https://cdn.jsdelivr.net/gh/adiovo/adblock-rules/rules.txt
+! CDN-Homepage: https://cdn.jsdelivr.net/gh/adiovo/adblock-rules/rules.txt
 
 @@||juejin.cn/*^$document
 @@||gitee.com/*^$document
@@ -150,9 +150,9 @@
 @@||youwaf.com^$document
 @@||clairechang.tw/*^$document
 @@||blog.csdn.net^$document
-
 @@||bitbucket.org/*^$document
 @@||atlassian.com/*^$document
 
 @@||appstore.bilin.eu.org^$document
 @@||imgchr.com^$document
+@@||support.broadcom.com/*^$document

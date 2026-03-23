@@ -157,3 +157,5 @@
 @@||imgchr.com^$document
 @@||support.broadcom.com/*^$document
 @@||open.work.weixin.qq.com^$document
+@@||npmjs.com^$document
+@@||arthals.ink^$document

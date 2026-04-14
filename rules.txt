@@ -163,3 +163,6 @@
 @@||cloud.smartisan.com^$document
 @@||goofish.com^$document
 @@||vant.pro^$document
+@@||greasyfork.org^$document
+@@||zerofs.link^$document
+@@||massgrave.dev^$document

@@ -70,7 +70,6 @@
 @@||nosaid.com/*^$document
 @@||jsrun.net/*^$document
 @@||ahhhhfs.com/*^$document
-@@||huya.com/*^$document
 @@||aliyundrive.com/*^$document
 @@||ytshorts.savetube.me/*^$document
 @@||addyoutube.com/*^$document

@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: AdiRules
-! Version: 20260422
+! Version: 20260929
 ! Expires: 24 hour
 ! Homepage: https://raw.githubusercontent.com/adiovo/adblock-rules/main/rules.txt
 ! CDN-Homepage: https://cdn.jsdelivr.net/gh/adiovo/adblock-rules/rules.txt
@@ -170,3 +170,4 @@
 @@||jdl.com^$document
 @@||dell.com^$document
 @@||outlook.live.com^$document
+@@||beian.miit.gov.cn^$document
